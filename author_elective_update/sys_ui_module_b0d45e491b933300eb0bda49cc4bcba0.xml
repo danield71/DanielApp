@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Daniel first table">f8d45e491b933300eb0bda49cc4bcb9e</application>
+        <filter/>
+        <name>Daniel first tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_393109_danielapp.employee</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-14 17:35:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b0d45e491b933300eb0bda49cc4bcba0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Daniel first tables</sys_name>
+        <sys_package display_value="DanielApp" source="x_393109_danielapp">e9fe29011b133300eb0bda49cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DanielApp">e9fe29011b133300eb0bda49cc4bcba4</sys_scope>
+        <sys_update_name>sys_ui_module_b0d45e491b933300eb0bda49cc4bcba0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-14 17:35:32</sys_updated_on>
+        <table>x_393109_danielapp_daniel_first_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DanielApp">e9fe29011b133300eb0bda49cc4bcba4</application>
+        <file_path/>
+        <instance_id>f1e5d74ddb0bb74049eac5970596192c</instance_id>
+        <instance_name>dev90379</instance_name>
+        <name>sys_ui_module_b0d45e491b933300eb0bda49cc4bcba0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Daniel first table">f8d45e491b933300eb0bda49cc4bcb9e</application><filter/><name>Daniel first tables</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_393109_danielapp.employee</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-14 17:35:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b0d45e491b933300eb0bda49cc4bcba0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Daniel first tables</sys_name><sys_package display_value="DanielApp" source="x_393109_danielapp">e9fe29011b133300eb0bda49cc4bcba4</sys_package><sys_policy/><sys_scope display_value="DanielApp">e9fe29011b133300eb0bda49cc4bcba4</sys_scope><sys_update_name>sys_ui_module_b0d45e491b933300eb0bda49cc4bcba0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-14 17:35:32</sys_updated_on><table>x_393109_danielapp_daniel_first_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1095410441</payload_hash>
+        <record_name>Daniel first tables</record_name>
+        <reverted_from/>
+        <source>bdfee1091b133300eb0bda49cc4bcbed</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-14 17:35:32</sys_created_on>
+        <sys_id>38d45e491b933300eb0bda49cc4bcba1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c9132f7030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-14 17:35:32</sys_updated_on>
+        <type>Module</type>
+        <update_guid>70d45e49d093330066e3a953902330a1</update_guid>
+        <update_guid_history>70d45e49d093330066e3a953902330a1:1095410441</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-14 17:38:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>00b41cf9811a494a8d1338f76185d779</sys_id>
+        <sys_metadata>b0d45e491b933300eb0bda49cc4bcba0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Daniel first tables</sys_name>
+        <sys_package display_value="DanielApp" source="x_393109_danielapp">e9fe29011b133300eb0bda49cc4bcba4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DanielApp">e9fe29011b133300eb0bda49cc4bcba4</sys_scope>
+        <sys_scope_delete display_value="">7ab9474dbfd743cc9e400cda8292b339</sys_scope_delete>
+        <sys_update_name>sys_ui_module_b0d45e491b933300eb0bda49cc4bcba0</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_b0d45e491b933300eb0bda49cc4bcba0">38d45e491b933300eb0bda49cc4bcba1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-14 17:38:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
